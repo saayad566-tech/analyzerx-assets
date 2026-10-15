@@ -18,7 +18,7 @@ SHA256SUMS               <- flat list of every chunk + manifest digest
 
 1. Fetch `manifests/index.json` (the main file).
 2. Pick the entry for the **selected market only** (no cross-market fallback).
-3. Fetch that market's manifest, verify its self-digest.
+3. Fetch that market's manifest and verify its self-digest.
 4. Download only the chunks whose SHA-256 does not already match locally (resumable).
 5. Verify every chunk and every assembled dataset, then **atomically activate** the pack.
 
