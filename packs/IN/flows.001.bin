@@ -1,0 +1,37 @@
+
+    "changeLabel": "+18.4% open interest",
+    "period": "Today · index futures",
+    "instrument": "NIFTY futures",
+    "sentiment": "Positive",
+    "source": "Exchange derivatives summary",
+    "sourceDate": "As of today, 15:30 IST",
+    "confidence": "Medium",
+    "marketId": "IN"
+  },
+  {
+    "id": "flow-4",
+    "category": "Mutual funds",
+    "entity": "SBI Mutual Fund",
+    "symbol": "WAAREEENER",
+    "action": "Buy",
+    "value": 312,
+    "valueLabel": "₹312 Cr",
+    "changeLabel": "+0.42% holding change",
+    "period": "Latest disclosed portfolio",
+    "instrument": "Waaree Energies",
+    "sentiment": "Positive",
+    "source": "Fund portfolio disclosure",
+    "sourceDate": "Latest monthly disclosure",
+    "confidence": "High",
+    "marketId": "IN"
+  },
+  {
+    "id": "flow-5",
+    "category": "Stock buying",
+    "entity": "Larsen & Toubro",
+    "symbol": "LT",
+    "action": "Buy",
+    "value": 286,
+    "valueLabel": "₹286 Cr",
+    "changeLabel": "+2.1% delivery volume",
+    "period": "Today · ca
