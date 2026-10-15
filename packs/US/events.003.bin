@@ -1,0 +1,31 @@
+guidance",
+      "semiconductors"
+    ]
+  },
+  {
+    "id": "us-evt-197",
+    "time": "09:35",
+    "dateLabel": "Today, 09:35",
+    "kind": "Government order",
+    "title": "Federal award for grid-modernization equipment",
+    "companyA": "Quanta Services",
+    "symbolA": "PWR",
+    "companyB": "U.S. Department of Energy",
+    "relationship": "receives government award",
+    "value": "$310M",
+    "sector": "Electrical infrastructure",
+    "location": "United States",
+    "source": "Agency announcement",
+    "sourceUrl": "https://www.energy.gov/",
+    "sentiment": "Positive",
+    "relevance": "Public-sector award with multi-year execution visibility.",
+    "confidence": "High",
+    "score": 83,
+    "status": "Confirmed",
+    "storylineId": "us-story-3",
+    "tags": [
+      "grid",
+      "government-award"
+    ]
+  }
+]
