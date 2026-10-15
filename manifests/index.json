@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-15T00:00:00Z",
+  "packs": [
+    {
+      "marketId": "IN",
+      "packVersion": "2026.10.15",
+      "manifestPath": "manifests/IN.json",
+      "totalBytes": 9701,
+      "datasetNames": [
+        "events",
+        "flows",
+        "meta",
+        "sectors",
+        "storylines"
+      ]
+    },
+    {
+      "marketId": "US",
+      "packVersion": "2026.10.15",
+      "manifestPath": "manifests/US.json",
+      "totalBytes": 9085,
+      "datasetNames": [
+        "events",
+        "flows",
+        "meta",
+        "sectors",
+        "storylines"
+      ]
+    }
+  ]
+}
