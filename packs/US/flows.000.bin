@@ -1,0 +1,38 @@
+[
+  {
+    "id": "us-flow-1",
+    "marketId": "US",
+    "category": "Institutional",
+    "entity": "Large-cap institutional net flow",
+    "action": "Buy",
+    "value": 2140,
+    "valueLabel": "$2,140M",
+    "changeLabel": "+$410M vs prior session",
+    "period": "Today · consolidated tape",
+    "sentiment": "Positive",
+    "source": "Consolidated tape aggregate",
+    "sourceDate": "As of today, 16:00 ET",
+    "confidence": "High"
+  },
+  {
+    "id": "us-flow-2",
+    "marketId": "US",
+    "category": "ETF",
+    "entity": "Broad-market ETF creations",
+    "action": "Buy",
+    "value": 1380,
+    "valueLabel": "$1,380M",
+    "changeLabel": "+$260M vs prior session",
+    "period": "Today · primary market",
+    "sentiment": "Positive",
+    "source": "ETF creation/redemption aggregate",
+    "sourceDate": "As of today, 16:00 ET",
+    "confidence": "High"
+  },
+  {
+    "id": "us-flow-3",
+    "marketId": "US",
+    "category": "Insider",
+    "entity": "Form 4 net insider activity",
+    "action": "Sell",
+    "value": 260
