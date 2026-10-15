@@ -1,0 +1,36 @@
+[
+  {
+    "id": "evt-101",
+    "time": "14:05",
+    "dateLabel": "Today, 14:05",
+    "kind": "Strategic investment",
+    "title": "Strategic investment deepens green hydrogen relationship",
+    "companyA": "Larsen & Toubro",
+    "symbolA": "LT",
+    "companyB": "Waaree Energies",
+    "symbolB": "WAAREEENER",
+    "relationship": "invests in",
+    "value": "₹250 Cr",
+    "sector": "Renewable energy",
+    "location": "Gujarat",
+    "source": "BSE filing",
+    "sourceUrl": "https://www.bseindia.com/",
+    "sentiment": "Positive",
+    "relevance": "Strengthens the financing leg of an already active project chain.",
+    "confidence": "High",
+    "score": 91,
+    "status": "Confirmed",
+    "storylineId": "story-1",
+    "tags": [
+      "investment",
+      "hydrogen",
+      "project finance"
+    ]
+  },
+  {
+    "id": "evt-100",
+    "time": "11:30",
+    "dateLabel": "Today, 11:30",
+    "kind": "Capacity expansion",
+    "title": "New electrolyser line added to fulfil announced order book",
+    "companyA": "Waaree Energ
