@@ -1,0 +1,23 @@
+e derivatives summary",
+    "sourceDate": "As of today, 15:30 IST",
+    "confidence": "Medium",
+    "marketId": "IN"
+  },
+  {
+    "id": "flow-8",
+    "category": "Mutual funds",
+    "entity": "Nippon India MF",
+    "symbol": "HAL",
+    "action": "Sell",
+    "value": 98,
+    "valueLabel": "₹98 Cr",
+    "changeLabel": "-0.16% holding change",
+    "period": "Latest disclosed portfolio",
+    "instrument": "Hindustan Aeronautics",
+    "sentiment": "Negative",
+    "source": "Fund portfolio disclosure",
+    "sourceDate": "Latest monthly disclosure",
+    "confidence": "High",
+    "marketId": "IN"
+  }
+]
