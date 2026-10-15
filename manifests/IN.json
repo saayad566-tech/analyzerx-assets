@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "marketId": "IN",
+  "packVersion": "2026.10.15",
+  "generatedAt": "2026-10-15T00:00:00Z",
+  "chunkBytes": 1024,
+  "datasets": [
+    {
+      "name": "events",
+      "bytes": 3940,
+      "sha256": "a2f5ac63acba9f04a589a4ede306d1999802b33fbbdabf0dc5505841b8e9edfc",
+      "encoding": "json",
+      "chunks": [
+        {
+          "index": 0,
+          "file": "packs/IN/events.000.bin",
+          "bytes": 1024,
+          "sha256": "3f8aa024bcec67ceb33de3a43dcd8ce20acc18f77658cf6cb9455789e2682b48"
+        },
+        {
+          "index": 1,
+          "file": "packs/IN/events.001.bin",
+          "bytes": 1024,
+          "sha256": "de3627c47d5c3273beb19f61831c27f93431c55b634836ec0ab70e250312c185"
+        },
+        {
+          "index": 2,
+          "file": "packs/IN/events.002.bin",
+          "bytes": 1024,
+          "sha256": "a55fccfd8f62b98ae32dd7710475894eb5a94a5b0b943446b86ba5d33590fac2"
+        },
+        {
+          "index": 3,
+          "file": "packs/IN/events.003.bin",
+          "bytes": 868,
+          "sha256": "9726ce8077d0c108343c2c70f13faa57f26f5c8dd78f1e69f3b80e72e17d6ad6"
+        }
+      ]
+    },
+    {
+      "name": "flows",
+      "bytes": 3676,
+      "sha256": "35549c96fa8b44252f0b1457a99e6de0e7f8fb18dc0b5a3fdb249cf6679e5da6",
+      "encoding": "json",
+      "chunks": [
+        {
+          "index": 0,
+          "file": "packs/IN/flows.000.bin",
+          "bytes": 1024,
+          "sha256": "0c2537013c5bd26b4b560a6f771513e342bb586e9687384f52a10a58746edf33"
+        },
+        {
+          "index": 1,
+          "file": "packs/IN/flows.001.bin",
+          "bytes": 1024,
+          "sha256": "8e0efa09099a99ef140d5cd4338f1e2ba1eeb02a76a8e7af1f736c53eb81a3e9"
+        },
+        {
+          "index": 2,
+          "file": "packs/IN/flows.002.bin",
+          "bytes": 1024,
+          "sha256": "15c93f094ea3b182ccbb24a119689c8d660f8631dec32b9a2df17108681b2f33"
+        },
+        {
+          "index": 3,
+          "file": "packs/IN/flows.003.bin",
+          "bytes": 604,
+          "sha256": "8d5f4b23c1e6841d96f2c33b76008f66c49b1516c7ad15124a7241b6441efe74"
+        }
+      ]
+    },
+    {
+      "name": "meta",
+      "bytes": 549,
+      "sha256": "7213a90976b0b6402ce366a4d857372b85c957e8c426a1fa6d76b25b9c0e22a8",
+      "encoding": "json",
+      "chunks": [
+        {
+          "index": 0,
+          "file": "packs/IN/meta.000.bin",
+          "bytes": 549,
+          "sha256": "7213a90976b0b6402ce366a4d857372b85c957e8c426a1fa6d76b25b9c0e22a8"
+        }
+      ]
+    },
+    {
+      "name": "sectors",
+      "bytes": 624,
+      "sha256": "ca90a1ccf65148959ec70be62848fba3591026aff81873a3a45c2af837b2ce79",
+      "encoding": "json",
+      "chunks": [
+        {
+          "index": 0,
+          "file": "packs/IN/sectors.000.bin",
+          "bytes": 624,
+          "sha256": "ca90a1ccf65148959ec70be62848fba3591026aff81873a3a45c2af837b2ce79"
+        }
+      ]
+    },
+    {
+      "name": "storylines",
+      "bytes": 912,
+      "sha256": "b7a9b1f8198f04328a4ed167623ff7daaa2f92af6d4c0e1c832ae949aca877f1",
+      "encoding": "json",
+      "chunks": [
+        {
+          "index": 0,
+          "file": "packs/IN/storylines.000.bin",
+          "bytes": 912,
+          "sha256": "b7a9b1f8198f04328a4ed167623ff7daaa2f92af6d4c0e1c832ae949aca877f1"
+        }
+      ]
+    }
+  ],
+  "totalBytes": 9701,
+  "sha256": "4209c74fb9f0c2ef9bb66ef16551952af0ed544f9aff2652ef32769c69e579a7"
+}
