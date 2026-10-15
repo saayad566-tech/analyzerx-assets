@@ -1,0 +1,34 @@
+    "source": "Company release",
+    "sourceUrl": "https://www.vertiv.com/en-us/about/news-and-insights/",
+    "sentiment": "Positive",
+    "relevance": "Earliest signal in the current supply chain.",
+    "confidence": "Medium",
+    "score": 77,
+    "status": "Confirmed",
+    "storylineId": "us-story-1",
+    "tags": [
+      "partnership",
+      "supply-chain"
+    ]
+  },
+  {
+    "id": "us-evt-198",
+    "time": "10:10",
+    "dateLabel": "Today, 10:10",
+    "kind": "Results / guidance",
+    "title": "Semiconductor supplier raises full-year outlook",
+    "companyA": "NVIDIA",
+    "symbolA": "NVDA",
+    "relationship": "issues guidance",
+    "sector": "Semiconductors",
+    "location": "United States",
+    "source": "SEC 8-K",
+    "sourceUrl": "https://www.sec.gov/edgar/search/",
+    "sentiment": "Positive",
+    "relevance": "Guidance raise with read-through to the accelerator supply chain.",
+    "confidence": "High",
+    "score": 86,
+    "status": "Confirmed",
+    "storylineId": "us-story-2",
+    "tags": [
+      "
