@@ -1,0 +1,35 @@
+[
+  {
+    "id": "us-evt-201",
+    "time": "15:40",
+    "dateLabel": "Today, 15:40",
+    "kind": "Capacity expansion",
+    "title": "Hyperscaler commits to a second AI data-centre campus",
+    "companyA": "Microsoft",
+    "symbolA": "MSFT",
+    "companyB": "Vertiv Holdings",
+    "symbolB": "VRT",
+    "relationship": "expands capacity with",
+    "value": "$1.4B capex",
+    "sector": "Data-center infrastructure",
+    "location": "Texas",
+    "source": "Company release",
+    "sourceUrl": "https://www.microsoft.com/investor",
+    "sentiment": "Positive",
+    "relevance": "Links a large-cap buyer to a mid-cap thermal/power supplier with multi-year visibility.",
+    "confidence": "High",
+    "score": 90,
+    "status": "Confirmed",
+    "storylineId": "us-story-1",
+    "tags": [
+      "capacity",
+      "ai-infrastructure",
+      "capex"
+    ]
+  },
+  {
+    "id": "us-evt-200",
+    "time": "13:05",
+    "dateLabel": "Today, 13:05",
+    "kind": "Large order",
+    "title": "Thermal-management order awarded for the new campu
