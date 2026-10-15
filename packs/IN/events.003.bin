@@ -1,0 +1,33 @@
+": "story-1",
+    "tags": [
+      "partnership",
+      "electrolyser"
+    ]
+  },
+  {
+    "id": "evt-097",
+    "time": "09:42",
+    "dateLabel": "Today, 09:42",
+    "kind": "Government order",
+    "title": "Railway modernization tender moves to execution stage",
+    "companyA": "Titagarh Rail Systems",
+    "symbolA": "TITAGARH",
+    "companyB": "Indian Railways",
+    "relationship": "receives government order",
+    "value": "₹1,700 Cr",
+    "sector": "Capital goods",
+    "location": "Eastern India",
+    "source": "NSE announcement",
+    "sourceUrl": "https://www.nseindia.com/",
+    "sentiment": "Positive",
+    "relevance": "Large public-sector order with multi-year execution visibility.",
+    "confidence": "High",
+    "score": 89,
+    "status": "Confirmed",
+    "storylineId": "story-2",
+    "tags": [
+      "railways",
+      "government order"
+    ]
+  }
+]
